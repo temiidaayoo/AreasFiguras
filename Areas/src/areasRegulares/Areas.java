@@ -7,7 +7,10 @@ public class Areas {
 		//declarar variables base y altura, asignamos valores.
 		int base=5;
 		int altura=10;
+		// declaramos la variable area y aplicamos la formula del triangulo 
+		//base * altura /2
 		
+		double areaTriangulo = (base * altura) /2;
 		
 	}
 
