@@ -12,6 +12,9 @@ public class Areas {
 		
 		double areaTriangulo = (base * altura) /2;
 		
+		//imprimir resultados 
+		
+		System.out.printf("El area del triangulo es %2.f", areaTriangulo);
 	}
 
 }
