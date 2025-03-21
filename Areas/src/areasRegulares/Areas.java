@@ -18,7 +18,9 @@ public class Areas {
 	
 	
 		//area cuadrado
+		//declaramos variables lado
 		
+		int lado =5;
 	}
 
 }
