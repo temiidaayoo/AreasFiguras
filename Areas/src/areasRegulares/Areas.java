@@ -21,6 +21,9 @@ public class Areas {
 		//declaramos variables lado
 		
 		int lado =5;
+		
+		//area cuadrado
+		double areaCuaado = lado * lado ;
 	}
 
 }
