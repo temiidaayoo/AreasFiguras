@@ -15,6 +15,10 @@ public class Areas {
 		//imprimir resultados 
 		
 		System.out.printf("El area del triangulo es %2.f", areaTriangulo);
+	
+	
+		//area cuadrado
+		
 	}
 
 }
